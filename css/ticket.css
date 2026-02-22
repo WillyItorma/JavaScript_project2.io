@@ -108,7 +108,7 @@ padding: 0;
  }
 
 .form-section .content {
-  height: 80vh;
+  height: 100vh;
   margin: 0 auto;
   margin-top: 40px; 
 }
@@ -294,7 +294,7 @@ footer {
 }
 
 video{
-  margin-bottom: 150px;
+  margin-bottom: 100px;
 }
 
 @media (max-width: 768px) {
@@ -376,4 +376,5 @@ video{
   .hide_video{
     display: none;
   }
+
 }
