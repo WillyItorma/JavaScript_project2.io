@@ -101,7 +101,7 @@ header .navbar {
 }
 
 .form-section {
-height: 100vh;
+height: 120vh;
 background: white;
 margin: 0 auto;
 padding: 0;
@@ -360,7 +360,7 @@ video{
   }
 
   .form-section {
-    height: 100vh;
+    height: 120vh;
   }
 
   .footer_section{
@@ -378,4 +378,5 @@ video{
   }
 
 }
+
 
