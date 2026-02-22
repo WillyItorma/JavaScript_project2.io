@@ -108,7 +108,7 @@ padding: 0;
  }
 
 .form-section .content {
-  height: 100vh;
+  height: 120vh;
   margin: 0 auto;
   margin-top: 40px; 
 }
@@ -378,3 +378,4 @@ video{
   }
 
 }
+
